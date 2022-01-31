@@ -2,6 +2,7 @@
 
 let name = prompt('What is your name?');
 let time = prompt('What time is it?');
+let email= prompt( 'what is your email');
 let message;
 
 if(time <= 11){
@@ -14,5 +15,5 @@ if(time <= 11){
     message = "Time does not exist!";
 }
 
-document.write('Hello ' + name + '! ' + message);
+document.write('Hello ' + name + '! ' + message + email);
 
