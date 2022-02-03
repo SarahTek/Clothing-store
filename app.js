@@ -19,7 +19,7 @@ else {
     message = 'Time does not exist';
 }
 
-document.write('Hey ' +  name + ' ! ' + message  +   'Welcome to My Clothing Store');
+document.write('Hey ' +  name + ' ! ' + message  +   'Here is a free Champagne. ENJOY!');
 
 
 
