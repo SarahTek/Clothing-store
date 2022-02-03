@@ -7,13 +7,13 @@ let email = prompt ('Sign Up with your email to get a Discount Updates')
 let message;
 
 if(time <= 11){
-    message= 'Have A Good Morning!';
+    message= 'Good Morning!';
 }
 else if (time <= 18){
-    message = 'Have A Good Afternoon!';
+    message = 'Good Afternoon!';
 }
 else if(time <= 24){
-    message = 'Have A Good Evening!';
+    message = 'Good Evening!';
 }
 else {
     message = 'Time does not exist';
