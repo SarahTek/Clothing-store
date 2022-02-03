@@ -71,6 +71,11 @@ main li img{
     width: 280px;
 }
 
+.heart{
+    height: 70px;
+    width: 70px;
+}
+
 main li{
     float: left;
     margin-right: 50px;
